@@ -1,0 +1,4 @@
+Main-class: isg224
+Class-Path: ojdbc8.jar
+
+
