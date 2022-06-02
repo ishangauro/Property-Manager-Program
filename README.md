@@ -1,0 +1,2 @@
+# Property-Manager-Program
+management firm for which you will implement a residential data management application (RDMA).1 Unlike the similarly-named apartments on the Lehigh campus, the apartments managed by Northside Uncommons include some options that are indeed uncommon. For this project, we shall focus only on the data directly related to the apartments and their tenants, and not details regarding employees, corporate finance, etc.
